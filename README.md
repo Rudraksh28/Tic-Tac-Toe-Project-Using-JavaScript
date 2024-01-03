@@ -28,6 +28,16 @@ This is a simple implementation of the classic Tic-Tac-Toe game using JavaScript
 - `style.css`: CSS file for styling.
 - `script.js`: JavaScript file containing the game logic.
 
+## Screenshots
+
+![Screenshot (168)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/ccf4879e-2364-4d5a-a54e-bb62cba7f2b5)
+
+![Screenshot (169)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/6e84ba6a-834c-48d9-b1d8-47c978ca2023)
+
+![Screenshot (170)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/55566841-f8d0-46c7-a655-977376b31a62)
+
+![Screenshot (171)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/8e8420f0-b5c9-4de4-aece-a7a747b28605)
+
 ## Future Improvements
 
 - Implement an AI opponent for single-player mode.
