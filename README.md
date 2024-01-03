@@ -32,6 +32,8 @@ This is a simple implementation of the classic Tic-Tac-Toe game using JavaScript
 
 ![Screenshot (168)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/ccf4879e-2364-4d5a-a54e-bb62cba7f2b5)
 
+![Screenshot (173)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/c5f499cf-ae0d-4c48-b548-046e30f6ab4b)
+
 ![Screenshot (169)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/6e84ba6a-834c-48d9-b1d8-47c978ca2023)
 
 ![Screenshot (170)](https://github.com/Rudraksh28/Tic-Tac-Toe-Project-Using-JavaScript/assets/155412000/55566841-f8d0-46c7-a655-977376b31a62)
