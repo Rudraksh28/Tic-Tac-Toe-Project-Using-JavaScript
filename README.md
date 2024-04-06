@@ -4,6 +4,9 @@
 
 This is a simple implementation of the classic Tic-Tac-Toe game using JavaScript. The project serves as a learning exercise or a starting point for building more complex JavaScript applications.
 
+## Live Link
+[Visit our website](https://tic-tac-toe-78386.web.app/)
+
 ## Features
 
 - Play Tic-Tac-Toe against a friend locally.
